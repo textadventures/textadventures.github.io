@@ -14,3 +14,10 @@ img {
 	max-width: 330px;
 	padding-right: 10px;
 }
+
+@media (max-width: 500px) {
+	.navbar-brand img {
+		max-width: 200px;
+		padding-right: 10px;
+	}
+}
